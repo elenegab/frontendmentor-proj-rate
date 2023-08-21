@@ -1,0 +1,38 @@
+<!-- Rating state start -->
+
+  How did we do?
+
+  Please let us know how we did with your support request. All feedback is appreciated 
+  to help us improve our offering!
+
+  1 2 3 4 5
+
+  Submit
+
+  <!-- Rating state end -->
+
+  <!-- Thank you state start -->
+
+  You selected <!-- Add rating here --> out of 5
+
+  Thank you!
+
+  We appreciate you taking the time to give a rating. If you ever need more support, 
+  don’t hesitate to get in touch!
+
+  <!-- Thank you state end -->
+
+
+  button{
+    margin-top: 30px;
+  position: absolute;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  width: 80%;
+  left: 30px;
+  height: 35px;
+  border-radius: 30px;
+  color: #ffd390;
+  background-color: #fc7613;
+  border-color: #fc7613;
+}
